@@ -272,3 +272,22 @@ footer {
     flex-direction: column;
   }
 }
+
+@media only screen and (max-width: 650px) {
+  .search-bar {
+    width: 90%;
+  }
+
+  footer {
+    height: 150px;
+  }
+
+  .upper-footer {
+    height: 50px;
+  }
+
+  .lower-footer {
+    height: 100px;
+    flex-direction: column;
+  }
+}
