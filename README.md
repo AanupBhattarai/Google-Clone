@@ -1,6 +1,6 @@
 # Google-Clone
 
-This is a simplified cloned version of the original Google ( https://www.google.com ) website. This simplified cloned version was created using HTML, CSS & JS. This Google clone contains Dark Theme in pre-used state.
+This is a simplified cloned version of the original Google ( https://www.google.com ) website. This simplified cloned version was created using HTML, CSS & JS. This Google clone contains Dark Theme in pre-used state. You can checkout the live preview!
 
 ## Screenshots
 
